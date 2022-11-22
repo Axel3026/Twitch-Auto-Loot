@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name        Twitch Auto Loot (22.11.2022 Working)
-// @namespace   Violentmonkey Scripts
-// @namespace    https://github.com/emtry/Bing-Auto-Search
-// @updateURL    https://raw.githubusercontent.com/emtry/Bing-Auto-Search/main/Bing%20Auto%20Search.user.js
-// @downloadURL
-// @match       https://www.twitch.tv/*
-// @grant       none
-// @version     1.9
-// @require     https://code.jquery.com/jquery-3.5.1.min.js
-// @author      -
-// @description 22.11.2022, 15:48:00
+// @name         Twitch Auto Loot (22.11.2022 Working)
+// @namespace    Violentmonkey Scripts
+// @namespace    https://github.com/Axel3026/Twitch-Auto-Loot
+// @updateURL    https://raw.githubusercontent.com/Axel3026/Twitch-Auto-Loot/main/Twitch%20Auto%20Loot.js
+// @downloadURL  https://raw.githubusercontent.com/Axel3026/Twitch-Auto-Loot/main/Twitch%20Auto%20Loot.js
+// @match        https://www.twitch.tv/*
+// @grant        none
+// @version      1.9
+// @require      https://code.jquery.com/jquery-3.5.1.min.js
+// @author       -
+// @description  22.11.2022, 15:48:00
 // @license MIT 
 // ==/UserScript==
 var classname = "ScCoreButton-sc-ocjdkq-0 ScCoreButtonSuccess-sc-ocjdkq-5 ibtYyW iVIehm";
