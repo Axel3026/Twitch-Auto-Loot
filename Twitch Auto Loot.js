@@ -9,7 +9,7 @@
 // @version      1.9
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @author       -
-// @description  22.11.2022, 15:48:00
+// @description  22.11.2022, 16:48:00
 // @license MIT 
 // ==/UserScript==
 var classname = "ScCoreButton-sc-ocjdkq-0 ScCoreButtonSuccess-sc-ocjdkq-5 ibtYyW iVIehm";
