@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch Auto Loot (22.11.2022 Working)
-// @namespace    Violentmonkey Scripts
+// @namespace    Scripts
 // @namespace    https://github.com/Axel3026/Twitch-Auto-Loot
 // @updateURL    https://raw.githubusercontent.com/Axel3026/Twitch-Auto-Loot/main/Twitch%20Auto%20Loot.js
 // @downloadURL  https://raw.githubusercontent.com/Axel3026/Twitch-Auto-Loot/main/Twitch%20Auto%20Loot.js
